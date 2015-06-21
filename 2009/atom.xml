@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>JSConf.eu - 2009</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/" />
+    <link rel="self" type="application/atom+xml" href="http://jsconf.eu/2009/atom.xml" />
+    <id>tag:jsconf.eu,2009-06-18:/2009//12</id>
+    <updated>2010-08-10T17:07:07Z</updated>
+    <subtitle>JSConf Berlin, November 7 &amp; 8, 2009
+The European JavaScript Conference
+</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 4.32-en</generator>
+
+<entry>
+    <title>JSConf.eu 2010</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/jsconfeu_2010.html" />
+    <id>tag:jsconf.eu,2010:/2009//12.4110</id>
+
+    <published>2010-08-10T17:06:22Z</published>
+    <updated>2010-08-10T17:07:07Z</updated>
+
+    <summary>Yay, we are now at JSConf.eu 2010....</summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p>Yay, we are now at <a href="http://jsconf.eu/2010/">JSConf.eu 2010.</a></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: JavaScript in Browser Performance by Steve Souders</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_javascript_in_browser_pe.html" />
+    <id>tag:jsconf.eu,2010:/2009//12.3586</id>
+
+    <published>2010-01-08T18:37:53Z</published>
+    <updated>2010-01-08T18:38:28Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG8gGsC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: JavaScript in the age of HTML5 and CSS3 by Faruk Ates</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_javascript_in_the_age_of.html" />
+    <id>tag:jsconf.eu,2010:/2009//12.3579</id>
+
+    <published>2010-01-07T09:20:05Z</published>
+    <updated>2010-01-07T09:21:01Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG71EIC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: Aggregation with Sprockets by Christophe Porteneuve</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_aggregation_with_sprocke.html" />
+    <id>tag:jsconf.eu,2010:/2009//12.3578</id>
+
+    <published>2010-01-07T09:17:50Z</published>
+    <updated>2010-01-07T09:19:57Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG70BIC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: Building Desktop-Caliber Web Apps With Cappuccino and Atlas by Francisco Tolmasky</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_building_desktop-caliber.html" />
+    <id>tag:jsconf.eu,2010:/2009//12.3574</id>
+
+    <published>2010-01-05T16:08:42Z</published>
+    <updated>2010-01-05T16:10:38Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG7nj4C" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: JavaScript - From Birth to Closure by Robert Nyman</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_javascript_-_from_birth.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3570</id>
+
+    <published>2009-12-22T16:41:35Z</published>
+    <updated>2009-12-22T16:43:38Z</updated>
+
+    <summary></summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG4yysA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: State and Future of JavaScript by Douglas Crockford</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_state_and_future_of_java.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3567</id>
+
+    <published>2009-12-21T11:03:37Z</published>
+    <updated>2009-12-21T11:04:28Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG4lj4C" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: Extreme JS Performance by Thomas Fuchs</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_extreme_js_performance_b.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3566</id>
+
+    <published>2009-12-21T10:52:16Z</published>
+    <updated>2009-12-21T10:53:59Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG4omIC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: HTML5 JavaScript APIs by Remy Sharp</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_html5_javascript_apis_by.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3564</id>
+
+    <published>2009-12-20T13:59:07Z</published>
+    <updated>2009-12-20T19:08:47Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Holger Blank</name>
+        
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG4iHYC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: A Meta Object System for JavaScript by Malte Ubl</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_a_meta_object_system_for.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3563</id>
+
+    <published>2009-12-19T10:39:58Z</published>
+    <updated>2009-12-20T19:11:53Z</updated>
+
+    <summary></summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG37hkA" type="application/x-shockwave-flash" width="560" height="350"  allowscriptaccess="always" allowfullscreen="true"></embed></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: Tracing JS Performance by Alois Reitbauer</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_tracing_js_performance_b.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3553</id>
+
+    <published>2009-12-12T13:22:07Z</published>
+    <updated>2009-12-20T19:11:30Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><br />
+<embed src="http://blip.tv/play/AYG1%2BUQA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: Writing apps on the edge with CouchDB by Alexander Lang</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_writing_apps_on_the_edge.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3552</id>
+
+    <published>2009-12-12T13:08:18Z</published>
+    <updated>2009-12-20T19:11:05Z</updated>
+
+    <summary></summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><embed src="http://blip.tv/play/AYG1%2BBwA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: The Future of Web Apps by Dion Almaer</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_the_future_of_web_apps_b.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3550</id>
+
+    <published>2009-12-11T15:46:41Z</published>
+    <updated>2009-12-20T19:10:10Z</updated>
+
+    <summary> ...</summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><br />
+<embed src="http://blip.tv/play/AYGz_3EA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Video: Node.js by Ryan Dahl</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3529</id>
+
+    <published>2009-11-26T19:39:18Z</published>
+    <updated>2009-12-20T19:09:45Z</updated>
+
+    <summary>Node.js might be the most exciting single piece of software in the current JavaScript universe. Ryan received standing ovations for his talk and he really deserved it! ...</summary>
+    <author>
+        <name>Malte Ubl</name>
+        <uri>http://twitter.com/cramforce</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p><a href="http://nodejs.org/">Node.js</a> might be the most exciting single piece of software in the current JavaScript universe. Ryan received standing ovations for his talk and he really deserved it!</p>
+
+<p><embed src="http://blip.tv/play/AYGylE4A" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Going Full Frontal In One Week</title>
+    <link rel="alternate" type="text/html" href="http://jsconf.eu/2009/going_full_frontal_in_one_week.html" />
+    <id>tag:jsconf.eu,2009:/2009//12.3510</id>
+
+    <published>2009-11-16T09:00:00Z</published>
+    <updated>2009-11-16T10:57:33Z</updated>
+
+    <summary>JSconf.eu is over, but the November JavaScript Crazyness keeps rocking! Remy Sharp invites you to his JavaScript conference Full Frontal in Brighton. Take it away Remy: Today is Monday. In 4 days time JavaScripters from across the UK and Europe...</summary>
+    <author>
+        <name>Jan Lehnardt</name>
+        <uri>http://twitter.com/janl</uri>
+    </author>
+    
+    <category term="home" label="home" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="de" xml:base="http://jsconf.eu/2009/">
+        <![CDATA[<p>JSconf.eu is over, but the November JavaScript Crazyness keeps rocking! Remy Sharp invites you to his JavaScript conference Full Frontal in Brighton. Take it away Remy:</p>
+
+<p><br><br />
+<img alt="title.gif" src="http://jsconf.eu/2009/title.gif" width="495" height="66" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /><br />
+<br></p>
+
+<p>Today is Monday. In 4 days time JavaScripters from across the UK and Europe will be coming together for the UK based JavaScript conference: Full Frontal.  After being at <a href="http://jsconf.eu/">JSConf.eu</a> "JSConf.eu -- The JavaScript Conference") last weekend, I couldn't be more excited about getting a community of front end developers together again.</p>
+
+<p>Full Frontal is really close to selling out, and I wanted to make a deal with you: if we sell out, Left Logic (my company, consisting of just me) promises to buy everyone a drink at the after party to kick off a great evening.</p>
+
+<p>So if you're someone who's been thinking about coming along, or you know someone, this is the week to get your ticket.</p>
+
+<p>The lineup consists of great topics by awesome speakers Christian Heilmann, Robert Nyman, PPK, Stuart Langridge, Todd Kloots, Jake Archibald and Simon Willison.  The full schedule and abstracts are available on the web site: <a href="http://2009.full-frontal.org">http://2009.full-frontal.org</a></p>
+
+<p>Like I said, we're *really close* to selling out, so make your move now to get those last few tickets and the drinks are on me :)</p>
+
+<p><br><br />
+<hr><br />
+<br><br />
+Thanks Remy, this sounds like a great deal! See you all in Brighton!</p>]]>
+        
+    </content>
+</entry>
+
+</feed>

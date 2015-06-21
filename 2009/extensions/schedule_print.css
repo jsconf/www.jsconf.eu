@@ -1,0 +1,9 @@
+#header,
+#speakersgallery,
+#footer,
+#prod_update,
+#print{display:none;}
+* {font-size: 12px;color: black;margin:0;padding:0;white-space:normal;}
+a {color: black; text-decoration: none;}
+#alpha thead tr th.track {width: 170px !important;}
+#alpha table {width:700px;border-collapse:collapse;}

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>JSConf.eu - 2009</title>
+        <link>http://jsconf.eu/2009/</link>
+        <description>JSConf Berlin, November 7 &amp; 8, 2009
+The European JavaScript Conference
+</description>
+        <language>de</language>
+        <copyright>Copyright 2015</copyright>
+        <lastBuildDate>Tue, 10 Aug 2010 19:06:22 +0100</lastBuildDate>
+        <generator>http://www.sixapart.com/movabletype/</generator>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        
+        <item>
+            <title>JSConf.eu 2010</title>
+            <description><![CDATA[<p>Yay, we are now at <a href="http://jsconf.eu/2010/">JSConf.eu 2010.</a></p>]]></description>
+            <link>http://jsconf.eu/2009/jsconfeu_2010.html</link>
+            <guid>http://jsconf.eu/2009/jsconfeu_2010.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+            <pubDate>Tue, 10 Aug 2010 19:06:22 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: JavaScript in Browser Performance by Steve Souders</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG8gGsC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_javascript_in_browser_pe.html</link>
+            <guid>http://jsconf.eu/2009/video_javascript_in_browser_pe.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Fri, 08 Jan 2010 19:37:53 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: JavaScript in the age of HTML5 and CSS3 by Faruk Ates</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG71EIC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_javascript_in_the_age_of.html</link>
+            <guid>http://jsconf.eu/2009/video_javascript_in_the_age_of.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Thu, 07 Jan 2010 10:20:05 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: Aggregation with Sprockets by Christophe Porteneuve</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG70BIC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_aggregation_with_sprocke.html</link>
+            <guid>http://jsconf.eu/2009/video_aggregation_with_sprocke.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Thu, 07 Jan 2010 10:17:50 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: Building Desktop-Caliber Web Apps With Cappuccino and Atlas by Francisco Tolmasky</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG7nj4C" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_building_desktop-caliber.html</link>
+            <guid>http://jsconf.eu/2009/video_building_desktop-caliber.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Tue, 05 Jan 2010 17:08:42 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: JavaScript - From Birth to Closure by Robert Nyman</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG4yysA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]></description>
+            <link>http://jsconf.eu/2009/video_javascript_-_from_birth.html</link>
+            <guid>http://jsconf.eu/2009/video_javascript_-_from_birth.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Tue, 22 Dec 2009 17:41:35 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: State and Future of JavaScript by Douglas Crockford</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG4lj4C" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_state_and_future_of_java.html</link>
+            <guid>http://jsconf.eu/2009/video_state_and_future_of_java.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Mon, 21 Dec 2009 12:03:37 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: Extreme JS Performance by Thomas Fuchs</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG4omIC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_extreme_js_performance_b.html</link>
+            <guid>http://jsconf.eu/2009/video_extreme_js_performance_b.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Mon, 21 Dec 2009 11:52:16 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: HTML5 JavaScript APIs by Remy Sharp</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG4iHYC" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed> </p>]]></description>
+            <link>http://jsconf.eu/2009/video_html5_javascript_apis_by.html</link>
+            <guid>http://jsconf.eu/2009/video_html5_javascript_apis_by.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Sun, 20 Dec 2009 14:59:07 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: A Meta Object System for JavaScript by Malte Ubl</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG37hkA" type="application/x-shockwave-flash" width="560" height="350"  allowscriptaccess="always" allowfullscreen="true"></embed></p>]]></description>
+            <link>http://jsconf.eu/2009/video_a_meta_object_system_for.html</link>
+            <guid>http://jsconf.eu/2009/video_a_meta_object_system_for.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Sat, 19 Dec 2009 11:39:58 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: Tracing JS Performance by Alois Reitbauer</title>
+            <description><![CDATA[<p><br />
+<embed src="http://blip.tv/play/AYG1%2BUQA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]></description>
+            <link>http://jsconf.eu/2009/video_tracing_js_performance_b.html</link>
+            <guid>http://jsconf.eu/2009/video_tracing_js_performance_b.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Sat, 12 Dec 2009 14:22:07 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: Writing apps on the edge with CouchDB by Alexander Lang</title>
+            <description><![CDATA[<p><embed src="http://blip.tv/play/AYG1%2BBwA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]></description>
+            <link>http://jsconf.eu/2009/video_writing_apps_on_the_edge.html</link>
+            <guid>http://jsconf.eu/2009/video_writing_apps_on_the_edge.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Sat, 12 Dec 2009 14:08:18 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: The Future of Web Apps by Dion Almaer</title>
+            <description><![CDATA[<p><br />
+<embed src="http://blip.tv/play/AYGz_3EA" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]></description>
+            <link>http://jsconf.eu/2009/video_the_future_of_web_apps_b.html</link>
+            <guid>http://jsconf.eu/2009/video_the_future_of_web_apps_b.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Fri, 11 Dec 2009 16:46:41 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Video: Node.js by Ryan Dahl</title>
+            <description><![CDATA[<p><a href="http://nodejs.org/">Node.js</a> might be the most exciting single piece of software in the current JavaScript universe. Ryan received standing ovations for his talk and he really deserved it!</p>
+
+<p><embed src="http://blip.tv/play/AYGylE4A" type="application/x-shockwave-flash" width="560" height="350" allowscriptaccess="always" allowfullscreen="true"></embed></p>]]></description>
+            <link>http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html</link>
+            <guid>http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">video</category>
+            
+            <pubDate>Thu, 26 Nov 2009 20:39:18 +0100</pubDate>
+        </item>
+        
+        <item>
+            <title>Going Full Frontal In One Week</title>
+            <description><![CDATA[<p>JSconf.eu is over, but the November JavaScript Crazyness keeps rocking! Remy Sharp invites you to his JavaScript conference Full Frontal in Brighton. Take it away Remy:</p>
+
+<p><br><br />
+<img alt="title.gif" src="http://jsconf.eu/2009/title.gif" width="495" height="66" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /><br />
+<br></p>
+
+<p>Today is Monday. In 4 days time JavaScripters from across the UK and Europe will be coming together for the UK based JavaScript conference: Full Frontal.  After being at <a href="http://jsconf.eu/">JSConf.eu</a> "JSConf.eu -- The JavaScript Conference") last weekend, I couldn't be more excited about getting a community of front end developers together again.</p>
+
+<p>Full Frontal is really close to selling out, and I wanted to make a deal with you: if we sell out, Left Logic (my company, consisting of just me) promises to buy everyone a drink at the after party to kick off a great evening.</p>
+
+<p>So if you're someone who's been thinking about coming along, or you know someone, this is the week to get your ticket.</p>
+
+<p>The lineup consists of great topics by awesome speakers Christian Heilmann, Robert Nyman, PPK, Stuart Langridge, Todd Kloots, Jake Archibald and Simon Willison.  The full schedule and abstracts are available on the web site: <a href="http://2009.full-frontal.org">http://2009.full-frontal.org</a></p>
+
+<p>Like I said, we're *really close* to selling out, so make your move now to get those last few tickets and the drinks are on me :)</p>
+
+<p><br><br />
+<hr><br />
+<br><br />
+Thanks Remy, this sounds like a great deal! See you all in Brighton!</p>]]></description>
+            <link>http://jsconf.eu/2009/going_full_frontal_in_one_week.html</link>
+            <guid>http://jsconf.eu/2009/going_full_frontal_in_one_week.html</guid>
+            
+            
+                <category domain="http://www.sixapart.com/ns/types#tag">home</category>
+            
+            <pubDate>Mon, 16 Nov 2009 10:00:00 +0100</pubDate>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,36 @@
+/** ie6 fix **/ 
+div#content-inner{position:relative;}
+/** end ie6 fix **/
+div#header div#header-inner p#registration {z-index:0;}
+div#alpha {width:840px;float:none;margin:0;}
+#alpha table {width:840px;position:relative;}
+#alpha table caption {background:#b7bfc9;color:#fff;font-size:26px;text-align:left;padding:0 2px;line-height:125%;}
+#alpha table thead tr th {padding: 10px 0 0;text-align:left;vertical-align:top;color:#000;font-size:26px;line-height:15px;font-weight:normal;white-space:nowrap;border-bottom:2px solid #cac9c9;}
+#alpha table tr th.time {width:80px;}
+#alpha table tr th.track {width:195px;}
+#alpha table thead tr th span {font-size:15px;line-height:21px;}
+#alpha table tbody tr.col_quarter th {background: url(../images/sched/table_quarter_bg.gif) 100% 100% no-repeat;}
+#alpha table tbody tr.col_half th, table tbody tr.col_half td, table tbody tr.col_quarter td {border-bottom:1px solid #cac9c9;}
+#alpha table tbody tr.col_full th, table tbody tr.col_full td {border-bottom: 2px solid #cac9c9;}
+#alpha table tbody tr th {font-size:15px;padding:2px;height:36px;border-right:1px solid #cac9c9;vertical-align:top;text-align:right;padding-right:7px;font-weight:normal;}
+#alpha table tbody tr.quarter th {color:#7E7E7E;font-size:13px;}
+#alpha table tbody tr.full th {font-weight: bolder;}
+#alpha table tbody tr td{font-size:13px;line-height:15px;font-weight:bold;padding:3px 5px;border-right:1px solid #cac9c9;vertical-align:top;}
+#alpha table tbody tr td span{font-weight:normal;}
+#alpha table tbody tr td.common{text-align:center;vertical-align:middle;background:#e9ebed;color:#a6a3a3;}
+#alpha table tbody tr td.highlight{background:#f2f2f2;}
+#alpha table tbody tr td.highlight span{color:#cb007b;}
+.ol{width:500px;height:300px;display:none;background:url(../images/sched/bg_next_layer.gif);}
+.ol h2{font-size:24px;margin:40px 40px 0 40px;line-height:100%;}
+.ol p{margin:0px 40px 40px 40px;font-weight:normal}
+.ol div.close{background-image:url(../images/sched/bg_next_button.gif);position:absolute;top:7px;right:7px;width:36px;height:36px;cursor:pointer;} 
+a.overlay {font-size:10px;padding:0 3px;background:#e2007a;color:#fff;border:1px #e2007a solid;cursor:pointer;text-decoration:none;}
+a.overlay:hover{background:#fff;color:#e2007a;}
+#prod_update {width:200px;height:40px;top:0;right:0;position:absolute;text-align:center;}
+#prod_update a {background:#f00;display:block;text-decoration:none;font-size:11px;color:#fff;line-height:12px;padding:5px0;}
+#prod_update a:hover {background:#000;}
+#print a {display: block;width:28px;height:28px;position:absolute;right:5px;top:40px;background: url(../images/sched/print_icon.gif) no-repeat 100% 0;}
+#print a:hover {background: url(../images/sched/print_icon.gif) no-repeat 100% 100%;}
+#print a span {display:none;}
+#sched{text-align:right;margin-top:10px;font-weight:bolder;}
+#mobileschedule{display:none;}

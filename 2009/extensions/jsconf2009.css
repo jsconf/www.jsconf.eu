@@ -1,0 +1,156 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 5:52:35 Dec 7, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:32:55 Jun 18, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+name: jsonf2009
+designer: SinnerSchrader
+designer_url: http://www.sinnerschrader.de
+developer: SinnerSchrader
+developer_url: http://www.sinnerschrader.de
+layouts: layout-wt
+*/
+
+body{margin:0;padding:0;font:normal normal normal 13px/18px Helvetica, Arial, sans-serif;color:#000;background:#f2f2f2;text-align:left;}
+a:link,a:visited{color:#e2007a;text-decoration:none;font-weight:bold;}
+a:hover{text-decoration:underline;}
+
+div#container{text-align:center;}
+div#container-inner{width:840px;overflow:hidden;padding:0 20px 0 20px;margin:0 auto;text-align:left;}
+	* html div#container-inner{padding:20px 0 0 0;border:20px solid #fff;border-width:0 20px;} /*fix ugly ie6 rendering*/
+
+div#header {position:relative;overflow:hidden;margin:0;padding:0;background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/bg_header.gif) repeat-x scroll 0 303px;}
+div#header div#header-inner{margin:0 0 10px 0;padding:0;height:305px;background:transparent url(/2009/images/logos/lg_logo.png) no-repeat 520px 0;}
+div#header div#header-inner #header-name{position:absolute;top:0;right:0;}
+div#header div#header-inner #header-name a{display:block;width:320px;height:247px;text-decoration:none;}
+div#header div#header-inner #header-name a span{visibility:hidden;}
+div#header div#header-inner #header-description{color:#e2007a;font-size:22px;line-height:1.5;text-transform:uppercase;margin:59px 0 153px 0;}
+div#header div#header-inner #header-description a{color:#e2007a;text-decoration:none;font-weight:normal;}
+div#header div#header-inner p.thisis{color:#e2007a;margin:0 0 135px 0;}
+div#header div#header-inner p.thisis a{color:#9aa1a4;text-decoration:none;font-weight:normal;}
+div#header div#header-inner p#registration{position:absolute;top:126px;left:0x;z-index:1000;}
+div#header div#header-inner p#registration a{color:#aaa;text-transform:uppercase;text-decoration:none;font-weight:normal;font-size:30px;line-height:normal;display:block;padding:5px 0 0 0;}
+	* html div#header div#header-inner p#registration a{padding:5px 0 5px 0;}
+div#header div#header-inner p#registration a:hover{background:#e2007a;color:#fff;}
+div#header div#header-inner ul{margin:0;padding:0;}
+div#header div#header-inner ul li{float:left;display:inline;text-transform:uppercase;font-size:15px;line-height:normal;}
+div#header div#header-inner ul li a{color:#e2007a;text-decoration:none;border-right:1px solid #e2007a;padding:0 12px;font-weight:normal;}
+div#header div#header-inner ul li.active a{color:#000;}
+div#header div#header-inner ul li.first a{padding-left:0;}
+div#header div#header-inner ul li.last a{border:none;padding-right:0;}
+
+div#content div#speakersgallery{width:840px;height:132px;overflow:hidden;text-align:center;margin:0 0 20px 0;}
+div#content div#speakersgallery h2{color:#000;font-size:26px;line-height:normal;text-align:left;margin:0 0 10px 0;}
+
+div#content div#content-inner{margin:0;padding:0;}
+div#content div#content-inner div#alpha{width:562px;padding:0;margin:0 20px 0 0;}
+div#content div#content-inner div#alpha div#alpha-inner{margin:0;padding:0;}
+div#content div#content-inner div#alpha div#alpha-inner h1,
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-header .asset-name{color:#000;font-size:26px;line-height:normal;} /*sometimes overriding H1*/
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-header .asset-name a{color:#000;text-decoration:none;font-weight:normal;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-header .asset-name a:hover{color:#e2007a;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-header div.asset-meta{font-size:11px;margin:0;padding:0;color:#434343;font-weight:bold;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-header div.asset-meta a{color:#e2007a;text-decoration:none;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-header div.asset-meta span.byline a{color:#434343;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-body a{font-weight:bold;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-body h3{font-weight:bold;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-body blockquote{font-size:13px;border:1px dashed #d3d3d3;border-width:1px 0;background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/el_quote.png) no-repeat 5px 10px;color:#666;margin:0 0 18px 0;padding:10px 8px 10px 30px;/*background:#d3d3d3;*/}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-body li{margin-bottom:10px;}
+div#content div#content-inner div#alpha div#alpha-inner div div.asset-body ul li{list-style:square;}
+
+div#content div#content-inner div#beta{width:258px;display:inline;margin:0;padding:0;}
+	* html div#content div#content-inner div#beta{width:238px;}
+div#content div#content-inner div#beta div#beta-inner{margin:0;padding:0;}
+div#content div#content-inner div#beta div#beta-inner .widget{font-size:13px;border-top:1px solid #e2007a;padding:7px 10px 0 10px;}
+div#content div#content-inner div#beta div#beta-inner .widget h3{font-size:15px;line-height:normal;color:#000;margin:0 0 5px 0;text-transform:uppercase;}
+div#content div#content-inner div#beta div#beta-inner .widget h3 a{color:#000;text-decoration:none;}
+div#content div#content-inner div#beta div#beta-inner .widget div.widget-content{font-size:13px;line-height:16px;}
+div#content div#content-inner div#beta div#beta-inner .widget div.widget-content input{color:#666;font-size:12px;}
+div#content div#content-inner div#beta div#beta-inner .widget div.widget-content ul{padding:0;margin:0;}
+div#content div#content-inner div#beta div#beta-inner .widget div.widget-content ul li{list-style:none;padding:0;margin:0;}
+div#content div#content-inner div#beta div#beta-inner .widget div.widget-content ul li a{text-decoration:none;color:#e2007a;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-about div.widget-content{padding:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-about h3{border:none;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-syndicate div.widget-content{padding:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-syndicate div.widget-content a{padding:0 0 1px 25px;}
+div#content div#content-inner div#beta div#beta-inner .widget-syndicate div.widget-content a.aboutus{background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/ic_aboutus.gif) no-repeat top left;}
+div#content div#content-inner div#beta div#beta-inner .widget-syndicate div.widget-content a.contact{background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/ic_contact.gif) no-repeat top left;}
+div#content div#content-inner div#beta div#beta-inner .widget-syndicate div.widget-content a.feed{background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/ic_feed.gif) no-repeat top left;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-sponsor div.widget-content{height:136px;}
+div#content div#content-inner div#beta div#beta-inner .widget-sponsor div.widget-content .flashframe{height:120px;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-feedburner div.widget-content{padding:0;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-countdown{padding:0;border:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown h3{display:none;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown div.widget-content{text-align:center;padding:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown div.widget-content a{display:block;padding:14px 0 29px 0;border:1px solid #e2007a;font-size:28px;line-height:normal;font-weight:normal;color:#e2007a;background:#fff;text-transform:uppercase;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown div.widget-content a:hover{text-decoration:none;color:#fff;background:#e2007a;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown div.widget-content a:hover span#today{color:#fff;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown div.widget-content a span#today{font-size:13px;line-height:normal;color:#777;display:blocK;margin:0 0 10px 0;}
+div#content div#content-inner div#beta div#beta-inner .widget-countdown div.widget-content a span#cd2next{font-size:34px;line-height:normal;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-twitter div.widget-content ul{width:95%;}
+
+/*div#content div#content-inner div#beta div#beta-inner .widget-newsletter div.widget-content{padding:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-newsletter div.widget-content form input#email{width:160px;} */
+
+div#content div#content-inner div#beta div#beta-inner .widget-search div.widget-content{padding:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-search div.widget-content form label{display:none;}
+div#content div#content-inner div#beta div#beta-inner .widget-search div.widget-content form br{display:none;}
+div#content div#content-inner div#beta div#beta-inner .widget-search div.widget-content form input#search{width:125px;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-promote{padding:0;border:0;}
+div#content div#content-inner div#beta div#beta-inner .widget-promote h3{display:none;}
+div#content div#content-inner div#beta div#beta-inner .widget-promote div.widget-content{text-align:center;padding:0;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-recent-comments div.widget-content a{color:#000;text-decoration:none;}
+div#content div#content-inner div#beta div#beta-inner .widget-recent-comments div.widget-content i{color:#999;font-style:italic;}
+
+div#content div#content-inner div#beta div#beta-inner .widget-googleshare div.widget-content ul li{margin:0 0 5px 0;}
+div#content div#content-inner div#beta div#beta-inner .widget-googleshare div.widget-content ul li a{color:#000;text-decoration:none;}
+div#content div#content-inner div#beta div#beta-inner .widget-googleshare div.widget-content ul li div.s{color:#999;font-style:italic;}
+div#content div#content-inner div#beta div#beta-inner .widget-googleshare div.widget-content ul li div.s a{color:#999;}
+div#content div#content-inner div#beta div#beta-inner .widget-googleshare div.widget-content div.f{display:none;}
+
+div#content div#content-inner .content-nav{text-align:left;}
+
+div#footer{margin:25px 0 0 0;}
+div#footer ul#footernav{clear:both;margin:0;padding:0;}
+div#footer ul#footernav li{color:#e2007a;float:left;display:inline;margin:0 0 5px 0;padding:0 5px 0 0;}
+div#footer ul#footernav li a{margin:0 5px 0 0;}
+div#footer div#footer-inner{clear:both;background:#2d2d2d;padding:30px;}
+div#footer div#footer-inner ul{list-style:none;margin:0;padding:0;}
+div#footer div#footer-inner ul li{margin:0 25px 0 0;padding:0;display:inline;}
+div#footer div#footer-inner h3{clear:both;border-bottom:1px solid #4f4f4f;text-align:right;color:#fff;font-size:15px;line-height:normal;}
+
+#speakerBar {position:relative;width:840px;}
+#speakerBar ul {margin:0;padding:0;position:relative;zoom:1;}
+#speakerBar li img {border:0;margin:0 2px 0 0;}
+#speakerBar ul li {margin:0; padding:0;position:absolute;list-style-type:none;top:7px;}
+#speakerBar a.prev,#speakerBar a.next{position:absolute;top:7px;display:block;width:16px;height:63px;}
+#speakerBar a.prev{left:0;background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/el_arrows.gif) no-repeat 0 -72px;}
+#speakerBar a.next{right:0;background:transparent url(/web/20141207055235/http://blog.sinnerschrader.de/mt-static/support/themes/jsconf2009/el_arrows.gif) no-repeat 0 0;}
+#speakerBar a.prev:hover{background-position:0 -219px;}
+#speakerBar a.next:hover{background-position:0 -146px;}
+#speakerBar a.prev span,#speakerBar a.next span{display:none;}
+#speakerBar a.filler {width:64px;height:64px;display:block;background:#ededed;}
+#speakerBar .container {height:88px;overflow:hidden;position:relative;margin:0 0 0 20px;width:800px;}
+.thetooltip {position:absolute;height:1.7em;width:10%;left:0;top:400px;}
+.thetooltip div {position:relative;}
+.thetooltip div div p {margin:5px 8px 5px 8px;padding:2px;	visibility:hidden;}
+.thetooltip div div {opacity:0.65;-moz-border-radius:4pt;-webkit-border-radius:4pt;position:absolute;display:inline-block;margin:0; padding:0;background:#000;top:0; left:0;z-index:3;}
+.thetooltip span {font-size:75%;}
+.info {z-index:4;position:absolute;top:0; left:0;color:#fff;margin:5px 8px 5px 8px;padding:2px;}

@@ -1,0 +1,483 @@
+dojo.require("dijit.dijit");
+dojo.provide("dojo.fx.Toggler");
+dojo.require("dojo.fx");
+dojo.require("dojo.fx.easing");
+(function(d,$){
+var _1=[
+
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/DAlmaer_64.jpg",
+                "text_name":"Dion Almaer",
+                "text_content":"Ajaxian Founder",
+                "link_url":"/2009/speaker/dion_almaer_ben_galbraith_the.html#entry-3412",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/AHoy_64.jpg",
+                "text_name":"Amy Hoy",
+                "text_content":"Independent Interface Designer & Developer",
+                "link_url":"/2009/speaker/amy_hoy_hard_refresh_-_not_jus.html#entry-3413",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/JResig_64.jpg",
+                "text_name":"John Resig",
+                "text_content":"Creator of jQuery",
+                "link_url":"/2009/speaker/john_resig_surprise_topic.html#entry-3414",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/TFuchs_64.jpg",
+                "text_name":"Thomas Fuchs",
+                "text_content":"Creator of script.aculo.us",
+                "link_url":"/2009/speaker/thomas_fuchs_warning_-_extreme.html#entry-3415",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/DCrockford_64.jpg",
+                "text_name":"Douglas Crockford",
+                "text_content":"JavaScript guru at Yahoo!",
+                "link_url":"/2009/speaker/douglas_crockford_speaking_at.html#entry-3300",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/RDahl_64.jpg",
+                "text_name":"Ryan Dahl",
+                "text_content":"Freelance Programmer",
+                "link_url":"/2009/speaker/speakers_selected.html#entry-3356",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/KDangoor_64.jpg",
+                "text_name":"Kevin Dangoor",
+                "text_content":"'Software product guy'",
+                "link_url":"/2009/speaker/javascript_on_the_server_is_co.html#entry-3363",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/KSimpson_64.jpg",
+                "text_name":"Kyle Simpson",
+                "text_content":"UI Architect",
+                "link_url":"/2009/speaker/loading_javascript_even_a_cave.html#entry-3370",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/SSouders_64.jpg",
+                "text_name":"Steve Souders",
+                "text_content":"Co-chair at Velocity",
+                "link_url":"/2009/speaker/steve_souders_at_jsconfeu.html#entry-3378",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/RSharp_64.jpg",
+                "text_name":"Remy Sharp",
+                "text_content":"Developer & Author",
+                "link_url":"/2009/speaker/remy_full_frontal_sharp_on_htm.html#entry-3396",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/TLangel_64.jpg",
+                "text_name":"Tobie Langel",
+                "text_content":"Web Consultant",
+                "link_url":"/2009/speaker/tobie_langel_unittesting_javas.html#entry-3369",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/ALang_64.jpg",
+                "text_name":"Alexander Lang",
+                "text_content":"CEO at Upstream Agile",
+                "link_url":"/2009/speaker/alexander_lang_writing_apps_on.html#entry-3395",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/PSvensson_64.jpeg",
+                "text_name":"Peter Svensson",
+                "text_content":"Ajax & JavaScript Evangelist",
+                "link_url":"/2009/speaker/peter_svensson_-_using_dojoxgf.html#entry-3409",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/FAtes_64.jpg",
+                "text_name":"Faruk Ateş",
+                "text_content":"Creative Design & Web Development Consultant",
+                "link_url":"/2009/speaker/javascript_in_the_age_of_html.html#entry-3397",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/TCroucher_64.jpg",
+                "text_name":"Tom Hughes-Croucher",
+                "text_content":"Senior Developer at Yahoo!",
+                "link_url":"/2009/speaker/tom_hughes-croucher_end_to_end.html#entry-3416",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/TRobinson_64.jpg",
+                "text_name":"Tom Robinson",
+                "text_content":"Founder of 280 North",
+                "link_url":"/2009/speaker/tom_robinson_kris_kowal_on_nar.html#entry-3417",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/JZaefferer_64.JPG",
+                "text_name":"Jörn Zaefferer",
+                "text_content":"jQuery UI",
+                "link_url":"/2009/speaker/jorn_zaefferer_developing_web.html#entry-3423",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/FTomalsky_64.jpg",
+                "text_name":"Francisco Tolmasky",
+                "text_content":"Co-Founder of 280 North",
+                "link_url":"/2009/speaker/francisco_tolmasky_building_de.html#entry-3440",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/BLeRoux_64.jpg",
+                "text_name":"Brian LeRoux",
+                "text_content":"Software Architect at Nitobi",
+                "link_url":"/2009/speaker/mobile_javascript_-_presenting.html#entry-3404",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/NSullivan_64.jpg",
+                "text_name":"Nicole Sullivan",
+                "text_content":"Evangelist, CSS Ninja & Author",
+                "link_url":"a_little_off_topic_nicole_sull.html#entry-3457",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/NOnken_64.jpg",
+                "text_name":"Nikolai Onken",
+                "text_content":"Community Evangelist",
+                "link_url":"/2009/speaker/nikolai_onken_dojo_from_sketch.html#entry-3458",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/FJakobs_64.jpg",
+                "text_name":"Fabian Jakobs",
+                "text_content":"qooxdoo Framework Architect",
+                "link_url":"/2009/speaker/fabian_jakobs_autopsy_of_a_wid.html#entry-3459",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/MUbl_64.jpg",
+                "text_name":"Malte Ubl",
+                "text_content":"Technical Director",
+                "link_url":"/2009/speaker/malte_ubl_j2ee.html#entry-3460",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/MdeBoer_64.jpg",
+                "text_name":"Mike de Boer",
+                "text_content":"Community Lead for Ajax.org",
+                "link_url":"/2009/speaker/mike_de_boer_ruben_daniels_bui.html#entry-3476",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/RNyman_64.jpg",
+                "text_name":"Robert Nyman",
+                "text_content":"Web Developer",
+                "link_url":"/2009/speaker/robert_nyman_javascript_-_from.html#entry-3482",
+                "link_target":"_self"
+            },
+
+    
+        
+            
+        
+    
+
+           {
+                "image":"/2009/assets_c/ATjin_64.jpg",
+                "text_name":"Andy Tjin",
+                "text_content":"Javascript Pioneer at Nokia Social Location",
+                "link_url":"/2009/speaker/andy_tijn_thomas_schuppel_mobi.html#entry-3492",
+                "link_target":"_self"
+            }
+];
+d.addOnLoad(function(){
+d.declare("jsconf.Tooltip",[dijit._Widget,dijit._Templated],{msg:"",templateString:"<div class='thetooltip'><div><p class='info'></p><div><p class='mirror'></p></div></div></div>",_setMsgAttr:function(_2){
+this.msg=_2;
+this.targets.forEach(function(n){
+n.innerHTML=_2;
+});
+},anim:function(x){
+this._anim&&this._anim.stop();
+this._anim=d.anim(this.domNode,{left:x});
+},hide:function(){
+this._hide=d.anim(this.domNode,{opacity:0});
+this.hiding=true;
+},show:function(){
+this._hide&&this._hide.stop();
+this._hide=d.anim(this.domNode,{opacity:1});
+this.hiding=false;
+},postCreate:function(){
+$("div div",this.domNode).style("opacity",0.65);
+this.targets=$("p",this.domNode);
+}});
+var _3=new jsconf.Tooltip().placeAt(d.body());
+d.style(_3.domNode,"left","-144px");
+d.declare("jsconf.SpeakerBar",[dijit._Widget,dijit._Templated],{cellSpacing:3,cellSize:64,templateString:"<div><a href='/2009/extensions/speakerbar.js.html#' class='prev'><span>&lt;</span></a><div dojoAttachPoint='containerNode' class='container'><ul dojoAttachPoint='list'></ul></div><a href='/2009/extensions/speakerbar.js.html#' class='next'><span>&gt;</span></a></div>",postCreate:function(){
+this.children=d.map(this.speakers,function(_4,_5){
+var _6=new jsconf.Speaker(_4).placeAt(this.list);
+var _7=this._position(_5);
+d.style(_6.domNode,"left",_7+"px");
+_6.index=_5;
+_6.left=_7;
+return _6;
+},this);
+d.forEach(this.children,this._setup,this);
+this.connect(this.containerNode,"onmouseenter",function(){
+d.forEach(this.children,function(_8){
+_8.anim&&_8.anim.stop();
+_8.anim=d.anim(_8.domNode,{opacity:0.35});
+},this);
+});
+this.connect(this.containerNode,"onmouseleave",function(){
+d.forEach(this.children,function(_9){
+_9.anim&&_9.anim.stop();
+_9.anim=d.anim(_9.domNode,{opacity:1});
+_3.hide();
+});
+});
+$(".prev",this.domNode).onclick(this,"_prev");
+$(".next",this.domNode).onclick(this,"_next");
+var _a=12-(this.children.length%12);
+for(var i=0;i<_a;i++){
+var n=dojo.place("<li><a class='filler'>&nbsp;</a></li>",this.list);
+dojo.style(n,{width:this.cellSize+"px",left:this._position(this.children.length+i)+"px"});
+}
+this.pageSize=this.containerNode.clientWidth;
+this.pages=parseInt(this.containerNode.scrollWidth/this.pageSize);
+this._currentPage=1;
+},_prev:function(e){
+this._currentPage--;
+if(this._currentPage<1){
+this._currentPage=this.pages;
+}
+e&&e.preventDefault();
+this._scrollTo();
+},_next:function(e){
+this._currentPage++;
+if(this._currentPage>this.pages){
+this._currentPage=1;
+}
+e&&e.preventDefault();
+this._scrollTo();
+},_scrollTo:function(_b){
+this._scrolling&&this._scrolling.stop();
+_b=_b||((this._currentPage-1)*this.pageSize)+(this.cellSpacing*this._currentPage);
+console.log(this._currentPage,_b);
+this._scrolling=new d._Animation({node:this.containerNode,onAnimate:function(_c){
+try{
+this.node.scrollLeft=Math.floor(_c);
+}
+catch(e){
+}
+},easing:d.fx.easing.expoOut,duration:1750,curve:[this.containerNode.scrollLeft,_b]}).play();
+},_position:function(_d){
+return _d*(this.cellSize+this.cellSpacing);
+},_setup:function(_e){
+var ap=d.animateProperty,_f=d.fx.combine([ap({node:_e.domNode,properties:{top:4,left:_e.left-4},duration:125}),ap({node:_e.imgNode,properties:{width:72,height:72},duration:125})]),_10=d.fx.combine([ap({node:_e.domNode,properties:{top:7,left:_e.left,duartion:200}}),ap({node:_e.imgNode,properties:{width:64,height:64}})]);
+this.connect(_f,"onEnd",function(){
+d.publish("/image/hovered",[_e,_e.index]);
+});
+this.connect(_e.domNode,"onmouseenter",function(){
+_e.anim&&_e.anim.stop();
+_e.anim=d.anim(_e.domNode,{opacity:1});
+_10&&_10.stop();
+_f.play();
+});
+this.connect(_e.domNode,"onmouseleave",function(){
+_e.anim&&_e.anim.stop();
+_e.anim=d.anim(_e.domNode,{opacity:0.35});
+_f&&_f.stop();
+_10&&_10.stop();
+_10.play();
+});
+}});
+d.subscribe("/image/hovered",function(_11,_12){
+_3.hiding&&_3.show();
+_3.anim(d.coords(_11.domNode).x);
+_3.attr("msg",_11.text_name+"<br><span>"+_11.text_content+"</span>");
+});
+d.declare("jsconf.Speaker",[dijit._Widget,dijit._Templated],{templateString:"<li class='speaker'><a href='${link_url}'>"+"<img alt='${text_name}' dojoAttachPoint='imgNode' src='${image}'></a>"+"</li>"});
+var bar=new jsconf.SpeakerBar({speakers:_1},"/2009/speakerBar");
+d.style(_3.domNode,"top",d.coords(bar.domNode,true).y+80+"px");
+});
+})(dojo,dojo.query);
